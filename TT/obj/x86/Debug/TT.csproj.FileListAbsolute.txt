@@ -1,0 +1,20 @@
+E:\DM\Project\TT\TT\bin\Debug\TT.exe
+E:\DM\Project\TT\TT\bin\Debug\TT.pdb
+E:\DM\Project\TT\TT\obj\x86\Debug\TT.exe
+E:\DM\Project\TT\TT\obj\x86\Debug\TT.pdb
+E:\DM\Project\TT\TT\obj\x86\Debug\TT.csprojResolveAssemblyReference.cache
+C:\Users\Engr Ahsan Ali\Desktop\Baap T T\TT\obj\x86\Debug\TT.exe
+C:\Users\Engr Ahsan Ali\Desktop\Baap T T\TT\obj\x86\Debug\TT.pdb
+C:\Users\Engr Ahsan Ali\Desktop\Baap T T\TT\bin\Debug\TT.exe
+C:\Users\Engr Ahsan Ali\Desktop\Baap T T\TT\bin\Debug\TT.pdb
+C:\Users\Engr Ahsan Ali\Desktop\Baap T T\TT\obj\x86\Debug\TT.csprojResolveAssemblyReference.cache
+F:\DM\Baap T T\TT\obj\x86\Debug\TT.exe
+F:\DM\Baap T T\TT\obj\x86\Debug\TT.pdb
+F:\DM\Baap T T\TT\bin\Debug\TT.exe
+F:\DM\Baap T T\TT\bin\Debug\TT.pdb
+F:\DM\Baap T T\TT\obj\x86\Debug\TT.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan Ali\Desktop\Baap T T\TT\obj\x86\Debug\TT.exe
+C:\Users\Ahsan Ali\Desktop\Baap T T\TT\obj\x86\Debug\TT.pdb
+C:\Users\Ahsan Ali\Desktop\Baap T T\TT\bin\Debug\TT.exe
+C:\Users\Ahsan Ali\Desktop\Baap T T\TT\bin\Debug\TT.pdb
+C:\Users\Ahsan Ali\Desktop\Baap T T\TT\obj\x86\Debug\TT.csprojResolveAssemblyReference.cache
